@@ -10,3 +10,4 @@ habia incluido en el remoto
 >git pull
 
 5.- he vuelto a modificar mi archivo local,luego de nuevo se repote la secuencia de comandos >add,commit y push
+prueba uno 
