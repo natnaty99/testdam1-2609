@@ -1,5 +1,5 @@
-1) fui al local de github.com y cloné mi nuevo repositorio al desktop git clone
-2)fui a documentos>programacion>java y adjunté un nuevo texto en bloc de notas (este mismo) añado git add para añadir el bloc de notas
+1) fui al local de github.com y clonÃ© mi nuevo repositorio al desktop git clone
+2)fui a documentos>programacion>java y adjuntÃ© un nuevo texto en bloc de notas (este mismo) aÃ±ado git add para aÃ±adir el bloc de notas
 3) guardar mis cambios a nivel local con el siguiente comando >git commit -m "instrucciones de uso prueba uno"
 4) voy a modificar este fichero en remoto y guardar sus cambios para actualizar despues mi repo local 
 he hecho un git pull a nivel local para actualizar el repositorio local. he hecho un git pull a nivel local para actualizar el repo local con lo todo lo que 
@@ -11,3 +11,4 @@ habia incluido en el remoto
 
 5.- he vuelto a modificar mi archivo local,luego de nuevo se repote la secuencia de comandos >add,commit y push
 prueba uno 
+prueba dos desde local para ver que pasa en remoto
